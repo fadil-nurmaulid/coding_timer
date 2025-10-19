@@ -21,5 +21,7 @@ streamlit run app.py
 ```
 
 ## AI Support Explanation
+IBM Granite was used only during development to help generate functions, improve code structure, and create documentation drafts.
+No AI integration exists in the final build.
 
-![docs/ai-support.md]
+📄 **AI Support Log:** [docs/ai-support.md](./docs/ai-support.md)
