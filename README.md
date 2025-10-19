@@ -18,3 +18,8 @@ Dikembangkan dengan bantuan **IBM Granite** untuk mempercepat proses penulisan f
 ```bash
 pip install streamlit pandas
 streamlit run app.py
+```
+
+## AI Support Explanation
+
+![docs/ai-support-md]
