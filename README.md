@@ -22,4 +22,4 @@ streamlit run app.py
 
 ## AI Support Explanation
 
-![docs/ai-support-md]
+![docs/ai-support.md]
